@@ -1,0 +1,166 @@
+<web-app>
+  <servlet>
+	<servlet-name>first</servlet-name>
+	<servlet-class>first</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>first</servlet-name>
+	<url-pattern>/first</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+	<servlet-name>b</servlet-name>
+	<servlet-class>b</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>b</servlet-name>
+	<url-pattern>/b</url-pattern>
+  </servlet-mapping>
+
+ <servlet>
+	<servlet-name>regis</servlet-name>
+	<servlet-class>regis</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>regis</servlet-name>
+	<url-pattern>/regis</url-pattern>
+  </servlet-mapping>
+
+ <servlet>
+	<servlet-name>inserts</servlet-name>
+	<servlet-class>inserts</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>inserts</servlet-name>
+	<url-pattern>/inserts</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+	<servlet-name>deletes</servlet-name>
+	<servlet-class>deletes</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>deletes</servlet-name>
+	<url-pattern>/deletes</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+	<servlet-name>fetch</servlet-name>
+	<servlet-class>fetch</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>fetch</servlet-name>
+	<url-pattern>/fetch</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+	<servlet-name>fetchall</servlet-name>
+	<servlet-class>fetchall</servlet-class>
+  </servlet>
+  <servlet-mapping>
+	<servlet-name>fetchall</servlet-name>
+	<url-pattern>/fetchall</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+      <servlet-name>edit</servlet-name>
+      <servlet-class>edit</servlet-class>
+   </servlet>
+   <servlet-mapping>
+       <servlet-name>edit</servlet-name>
+       <url-pattern>/edit</url-pattern>
+   </servlet-mapping>
+
+   <servlet>
+      <servlet-name>update</servlet-name>
+      <servlet-class>update</servlet-class>
+   </servlet>
+   <servlet-mapping>
+       <servlet-name>update</servlet-name>
+       <url-pattern>/update</url-pattern>
+   </servlet-mapping>
+
+
+<servlet>
+<servlet-name>t2</servlet-name>
+<servlet-class>t2</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>t2</servlet-name>
+<url-pattern>/t2</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>t3</servlet-name>
+<servlet-class>t3</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>t3</servlet-name>
+<url-pattern>/t3</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+<servlet-name>t4</servlet-name>
+<servlet-class>t4</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>t4</servlet-name>
+<url-pattern>/t4</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>s2</servlet-name>
+<servlet-class>s2</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>s2</servlet-name>
+<url-pattern>/s2</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>s3</servlet-name>
+<servlet-class>s3</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>s3</servlet-name>
+<url-pattern>/s3</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>s4</servlet-name>
+<servlet-class>s4</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>s4</servlet-name>
+<url-pattern>/s4</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+<servlet-name>h2</servlet-name>
+<servlet-class>h2</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>h2</servlet-name>
+<url-pattern>/h2</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>h3</servlet-name>
+<servlet-class>h3</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>h3</servlet-name>
+<url-pattern>/h3</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>searchr</servlet-name>
+<servlet-class>searchr</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>searchr</servlet-name>
+<url-pattern>/searchr</url-pattern>
+</servlet-mapping>
+</web-app>
